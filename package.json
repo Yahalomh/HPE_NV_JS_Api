@@ -1,5 +1,5 @@
 {
-  "name": "HPENV",
+  "name": "HPE_NV",
   "version": "1.0.0",
   "description": "HPE NV JS lib",
   "main": "nv.js",
