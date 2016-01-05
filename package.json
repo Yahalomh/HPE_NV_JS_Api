@@ -1,8 +1,8 @@
 {
-  "name": "nodejs",
+  "name": "HPENV",
   "version": "1.0.0",
   "description": "HPE NV JS lib",
-  "main": "example.js",
+  "main": "nv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
